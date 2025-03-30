@@ -28,22 +28,6 @@ This application allows oil and gas companies to track and maintain data related
 - **Data Validation**: Comprehensive form validation with meaningful error messages
 - **Responsive UI**: Mobile-friendly interface using Bootstrap 5
 
-## Screenshots
-
-### Wells List View
-<img width="956" alt="Wells-HomePage" src="https://github.com/user-attachments/assets/af294fa2-8965-4ce5-a285-3fb9e86da588" />
-
-
-### Well Details
-<img width="956" alt="Wells-ItemView" src="https://github.com/user-attachments/assets/adf4ba07-2d29-441c-b0e3-30ad9fbf8e04" />
-
-### Add New Well
-![Add-WellsData](https://github.com/user-attachments/assets/85781ed3-1c91-4aba-bd50-b6f512c352e8)
-
-### Edit Well
-<img width="952" alt="Wells-EditView" src="https://github.com/user-attachments/assets/f9d371ef-5d2d-48f5-8eb9-86cc5ba7dd4b" />
-
-
 ## Technical Specifications
 
 ### Prerequisites
