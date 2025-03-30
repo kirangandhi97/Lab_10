@@ -41,8 +41,8 @@ This application allows oil and gas companies to track and maintain data related
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HP181/Php_Laravel_Lab10.git
-   cd Php_Laravel_Lab10
+   git clone https://github.com/kirangandhi97/Lab_10.git
+   cd Lab10
 
 Install dependencies:
 ```
